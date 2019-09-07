@@ -1,0 +1,7 @@
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\bin\Debug\Ejemplo5_BlocNotas.exe
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\bin\Debug\Ejemplo5_BlocNotas.pdb
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\obj\Debug\Ejemplo5_BlocNotas.vbprojResolveAssemblyReference.cache
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\obj\Debug\Ejemplo5_BlocNotas.MainForm.resources
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\obj\Debug\Ejemplo5_BlocNotas.vbproj.GenerateResource.Cache
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\obj\Debug\Ejemplo5_BlocNotas.exe
+D:\SharpDevelop Projects\UdG\Ejemplo5_BlocNotas\obj\Debug\Ejemplo5_BlocNotas.pdb
